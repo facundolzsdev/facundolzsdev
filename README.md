@@ -1,11 +1,11 @@
 <h1 align="left">Hola 👋 Soy Facundo</h1>
-###
+
 <h2 align="left">Desarrollador autodidacta especializado en Java y su ecosistema. Creo aplicaciones web backend y desktop, manejando proyectos desde la conceptualización hasta la implementación final.</h2>
-###
+
 <p align="left">🚀 Lo que hago<br>• <strong>Backend robusto:</strong> APIs REST, servicios web y lógica de negocio<br>• <strong>Aplicaciones desktop:</strong> Interfaces modernas con JavaFX y Swing<br>• <strong>Bases de datos:</strong> Diseño, implementación y optimización SQL<br>• <strong>Desarrollo completo:</strong> Desde análisis de requisitos hasta deployment<br><br>🎯 Mi enfoque<br>• Código limpio y bien documentado<br>• READMEs detallados y Swagger para APIs<br>• Buenas prácticas de desarrollo<br>• Comunicación clara en cada proyecto<br><br>🛠️ Tecnologías que uso<br>• <strong>Backend:</strong> Java, Spring Boot, Jakarta EE, REST APIs, SOAP Services<br>• <strong>Bases de datos:</strong> MySQL, SQLite, SQL Server, diseño de BD<br>• <strong>Desktop:</strong> JavaFX, Swing<br>• <strong>Frontend básico:</strong> HTML, CSS, JavaScript, React, Bootstrap<br><br>📞 <strong>Siempre interesado en nuevos desafíos.</strong><br><br>📧 facundolzsdev@gmail.com | 💼 <a href="https://tu-portfolio.com">Portfolio</a> | 💼 <a href="https://www.workana.com/freelancer/576993ae1aa288456b78a26c9c82bed1">Workana</a></p>
-###
+
 <h2 align="left">💻 Stack Tecnológico</h2>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -31,4 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-###

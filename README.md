@@ -1,23 +1,11 @@
-<h1 align="left">Hola 👋 Me presento</h1>
-
+<h1 align="left">Hola 👋 Soy Facundo</h1>
 ###
-
-<p align="left">Soy Facundo, desarrollador Backend en constante formación.</p>
-
+<h2 align="left">Desarrollador autodidacta especializado en Java y su ecosistema. Creo aplicaciones web backend y desktop, manejando proyectos desde la conceptualización hasta la implementación final.</h2>
 ###
-
-<h2 align="left">Autodidacta comprometido con el aprendizaje activo. Me especializo en Java y su ecosistema, desarrollando tanto aplicaciones web como desktop. Mantengo mis habilidades actualizadas con proyectos prácticos y desafíos técnicos.</h2>
-
+<p align="left">🚀 Lo que hago<br>• <strong>Backend robusto:</strong> APIs REST, servicios web y lógica de negocio<br>• <strong>Aplicaciones desktop:</strong> Interfaces modernas con JavaFX y Swing<br>• <strong>Bases de datos:</strong> Diseño, implementación y optimización SQL<br>• <strong>Desarrollo completo:</strong> Desde análisis de requisitos hasta deployment<br><br>🎯 Mi enfoque<br>• Código limpio y bien documentado<br>• READMEs detallados y Swagger para APIs<br>• Buenas prácticas de desarrollo<br>• Comunicación clara en cada proyecto<br><br>🛠️ Tecnologías que uso<br>• <strong>Backend:</strong> Java, Spring Boot, Jakarta EE, REST APIs, SOAP Services<br>• <strong>Bases de datos:</strong> MySQL, SQLite, SQL Server, diseño de BD<br>• <strong>Desktop:</strong> JavaFX, Swing<br>• <strong>Frontend básico:</strong> HTML, CSS, JavaScript, React, Bootstrap<br><br>📞 <strong>Siempre interesado en nuevos desafíos.</strong><br><br>📧 facundolzsdev@gmail.com | 💼 <a href="https://tu-portfolio.com">Portfolio</a> | 💼 <a href="https://www.workana.com/freelancer/576993ae1aa288456b78a26c9c82bed1">Workana</a></p>
 ###
-
-<p align="left">🔍 Lo que busco actualmente<br>• Participar en proyectos del mundo real que me permitan seguir aprendiendo y mejorando mis habilidades.<br>• Enfrentar desafíos que me aporten experiencia y me ayuden a crecer como desarrollador.<br>• Colaborar con equipos donde pueda contribuir, aprender de otros y compartir conocimientos.<br><br>🎯 En lo que me enfoco<br>• Escribir código limpio y aplicar buenas prácticas de desarrollo. <br>• Mantener una documentación clara y actualizada (READMEs detallados + Swagger para APIs).<br><br>🛠️ Lo que hice / hago<br>• Desarrollo de aplicaciones web y de escritorio.<br>• Trabajo con el ecosistema Jakarta EE: Jakarta Persistence, Servlets, Enterprise Beans, JAX-RS, entre otros.<br>• Trabajo con el ecosistema Spring: Spring Boot, Spring Security, Spring Data JPA, entre otros.<br>• Creación y consumo de APIs REST y SOAP.</p>
-
-###
-
 <h2 align="left">💻 Stack Tecnológico</h2>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -25,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
@@ -33,11 +21,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -47,5 +31,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
 ###

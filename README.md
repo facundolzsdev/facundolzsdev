@@ -1,5 +1,5 @@
-<h1 align="left">👨‍💻 Facundo Lozano • Desarrollador Backend Java</h1>
-<h2 align="left">Bienvenido a mi espacio en GitHub. Acá vas a encontrar el código fuente y otros detalles de mis proyectos personales, la mayoría orientados a Java y su ecosistema.</h2>
+<h1 align="left">👨‍💻 Facundo Lozano • Desarrollador Backend</h1>
+<h2 align="left">Bienvenido a mi espacio en GitHub. Acá vas a encontrar el código fuente de mis proyectos, todos orientados a Java y su ecosistema, con foco en resolver problemas reales.</h2>
 
 ---
 <p align="left">
@@ -16,7 +16,7 @@
 🛠️ <strong>Tecnologías principales</strong><br><br>
 - <strong>Backend:</strong> Java, Spring Framework, Jakarta EE<br>
 - <strong>APIs:</strong> REST, SOAP (JAX-RS, JAX-WS)<br>
-- <strong>Bases de datos:</strong> MySQL, SQL Server<br>
+- <strong>Bases de datos:</strong> MySQL, PostgreSQL<br>
 - <strong>Herramientas:</strong> Docker, Postman<br>
 - <strong>Frontend:</strong> JavaScript, React, HTML, CSS, Bootstrap
 </p>
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
@@ -53,6 +53,5 @@
 <h2 align="left">📬 Contacto</h2>
 <p align="left">
 📧 <strong>Email:</strong> facundolzsdev@gmail.com<br>
-🌐 <strong>Portfolio:</strong> <a href="https://facundodev.netlify.app">facundodev.netlify.app</a><br>
-💼 <strong>Workana:</strong> <a href="https://www.workana.com/freelancer/576993ae1aa288456b78a26c9c82bed1">Perfil Workana</a>
+🌐 <strong>Portfolio:</strong> <a href="https://facundodev.netlify.app">facundodev.netlify.app</a>
 </p>

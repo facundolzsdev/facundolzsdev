@@ -3,7 +3,7 @@
 **Backend Developer** especializado en el ecosistema **Java**.
 Enfocado en el diseño de arquitecturas robustas, resolución de problemas reales y buenas prácticas de ingeniería.
 
-![Oracle Certified](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-007396?style=plastic&logo=oracle&logoColor=white&labelColor=F83E00)
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-007396?style=plastic&logo=oracle&logoColor=white&labelColor=F83E00)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C2B58F1FA95A415E253AEBF5114CF7BB21483C871F1F3AAAC51C4A142A1E8BE6)
 
 ---
 

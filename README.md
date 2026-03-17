@@ -3,6 +3,8 @@
 **Backend Developer** especializado en el ecosistema **Java**.
 Enfocado en el diseño de arquitecturas robustas, resolución de problemas reales y buenas prácticas de ingeniería.
 
+![Oracle Certified](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-007396?style=plastic&logo=oracle&logoColor=white&labelColor=F83E00)
+
 ---
 
 ## Stack Tecnológico
@@ -37,6 +39,7 @@ Me especializo en soluciones **End-to-End**, priorizando la estructura y la viab
 
 ---
 
-### Contacto
+## Contacto
 
-[📧 facundolzsdev@gmail.com](mailto:facundolzsdev@gmail.com) • [🌐 Portfolio](https://facundodev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://facundodev.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:facundolzsdev@gmail.com)

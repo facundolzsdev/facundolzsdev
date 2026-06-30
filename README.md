@@ -1,18 +1,32 @@
 # Facundo Lozano
-**Software Developer** con experiencia en el ecosistema **.NET** y **Java**.
-Enfocado en el diseño de arquitecturas robustas, resolución de problemas reales y buenas prácticas de ingeniería.
+**Software Developer** enfocado en el diseño de arquitecturas robustas, resolución de problemas reales y buenas prácticas de ingeniería.
 
 ---
 
+## Enfoque de Desarrollo
+Me especializo en soluciones **End-to-End**, priorizando la estructura y la viabilidad de cada proyecto a largo plazo.
+
+* **Arquitectura:** Diseño de APIs RESTful y servicios SOAP.
+* **Persistencia:** Modelado y optimización de bases de datos relacionales.
+* **Calidad:** Código limpio, mantenible y orientado a la escalabilidad.
+* **Documentación:** READMEs detallados y especificaciones técnicas claras.
+
+---
+
+## Certificaciones oficiales
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-007396?style=plastic&logo=oracle&logoColor=white&labelColor=F83E00)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C2B58F1FA95A415E253AEBF5114CF7BB21483C871F1F3AAAC51C4A142A1E8BE6)
+
+---
 ## Stack Tecnológico
 
 **Backend**
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=nuget&logoColor=white)
 
 **Frontend**
 <br>
@@ -21,6 +35,7 @@ Enfocado en el diseño de arquitecturas robustas, resolución de problemas reale
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Data & Testing**
 <br>
@@ -32,21 +47,6 @@ Enfocado en el diseño de arquitecturas robustas, resolución de problemas reale
 <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## Certificaciones oficiales
-[![Oracle Certified](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-007396?style=plastic&logo=oracle&logoColor=white&labelColor=F83E00)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C2B58F1FA95A415E253AEBF5114CF7BB21483C871F1F3AAAC51C4A142A1E8BE6)
-
----
-
-## Enfoque de Desarrollo
-Me especializo en soluciones **End-to-End**, priorizando la estructura y la viabilidad del proyecto a largo plazo.
-
-* **Arquitectura:** Diseño de APIs RESTful y servicios SOAP.
-* **Persistencia:** Modelado y optimización de bases de datos relacionales.
-* **Calidad:** Código limpio, mantenible y orientado a la escalabilidad.
-* **Documentación:** READMEs detallados y especificaciones técnicas claras.
 
 ---
 
